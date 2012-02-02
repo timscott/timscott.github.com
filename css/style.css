@@ -72,9 +72,9 @@ h2 {
   background-color: #000;
   color:#fff;
   padding:10px 20px;
-  -webkit-border-radius: 20px;
-  -moz-border-radius: 20px;
-  border-radius: 20px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
 }
 ul#projects {
   padding:0;     
