@@ -65,9 +65,14 @@ td { vertical-align: top; }
 /* ==|== primary styles =====================================================
    Author: 
    ========================================================================== */
-#projects li {
+ul#projects {
+  padding:0;     
+}
+ul#projects li {
+  list-style: none;
   display: block;
   padding: 20px;
+  border: solid 1px #aaa;
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
   border-radius: 20px;
