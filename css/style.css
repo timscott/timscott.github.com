@@ -68,7 +68,7 @@ td { vertical-align: top; }
 h2 {
   background-color: #000;
   color:#fff;
-  padding:20px;
+  padding:10px 20px;
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
   border-radius: 20px;
@@ -95,6 +95,9 @@ ul#projects li {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 ); /* IE6-9 */
 }
 
+ul#projects {
+  margin:5px 0;
+}
 
 /* ==|== non-semantic helper classes ======================================== */
 .ir { display: block; border: 0; text-indent: -999em; overflow: hidden; background-color: transparent; background-repeat: no-repeat; text-align: left; direction: ltr; }
