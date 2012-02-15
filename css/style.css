@@ -120,6 +120,7 @@ footer a:hover, header a:hover {
   list-style: none;  
 }
 #projects li {
+  margin-bottom: 20px;
   width: 33%;
   font-size:1.2em;
   display: block;
